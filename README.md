@@ -29,6 +29,8 @@ Hardworking, Organized, Back-End Developer professional with a proven background
 ### 📊 Muhammad's Github Status
 
 ![Muhammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammedjafer&show_icons=true&theme=blue-green)
+![Muhammed's Top Lang](https://github-readme-stats.vercel.app/api/top-langs?username=muhammedjafer&show_icons=true&theme=blue-green)
+![Muhammed's Strick](https://github-readme-streak-stats.herokuapp.com/?user=muhammedjafer&show_icons=true&theme=blue-green)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
@@ -39,11 +41,6 @@ Hardworking, Organized, Back-End Developer professional with a proven background
    I started my coding journey as a naive computer science student with a passion to learn everything I could in this programming world - code, unix, linux, theory. And all the while, teaching myself web development with a dream to build my own app, but that soon got overshadowed by my desire to excel in php and laravel. A desire that landed me a Back-end developer job upon graduation. I am still working on my skills and get more experience in that industry to be a full-stack developer Don't wait up, because I'm coming.
 </details>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedjafer&show_icons=true&locale=en&layout=compact" alt="muhammedjafer" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedjafer&show_icons=true&locale=en" alt="muhammedjafer" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedjafer&" alt="muhammedjafer" /></p>
 
 <!--
 **muhammedjafer/muhammedjafer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
