@@ -26,7 +26,7 @@ Hardworking, Organized, Back-End Developer professional with a proven background
 
 #
 
-### 📊 Stats
+### 📊 Muhammad's Github Status
 
 ![Muhammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammedjafer&show_icons=true&theme=blue-green)
 
