@@ -30,7 +30,7 @@ Hardworking, Organized, Back-End Developer professional with a proven background
 
 ![Muhammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammedjafer&show_icons=true&theme=blue-green)
 <!-- this is the top lang !-->
-<p><img align="left" width="467px" style="padding-bottom: 16px;"  src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedjafer&show_icons=true&theme=blue-green" alt="muhammedjafer" /></p><br>
+<p><img align="left" width="467px" style="margin-bottom: 16px;"  src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedjafer&show_icons=true&theme=blue-green" alt="muhammedjafer" /></p><br>
 <!-- this is the strick !-->
 <p><img align="left" width="467px" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedjafer&show_icons=true&theme=blue-green" alt="muhammedjafer" /></p><br>
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
@@ -38,14 +38,13 @@ Hardworking, Organized, Back-End Developer professional with a proven background
 
 
 ##
-    position: relative;
-    top: 33rem;
-    right: 30.3rem;
 
-<details style="position: relative; top: 33rem; right: 30.3rem;">
+<div style="position: relative; top: 33rem; right: 30.3rem;">
+<details>
  <summary><h3>👨‍💻 Muhammed's Coding Journey</h3></summary>
    I started my coding journey as a naive computer science student with a passion to learn everything I could in this programming world - code, unix, linux, theory. And all the while, teaching myself web development with a dream to build my own app, but that soon got overshadowed by my desire to excel in php and laravel. A desire that landed me a Back-end developer job upon graduation. I am still working on my skills and get more experience in that industry to be a full-stack developer Don't wait up, because I'm coming.
 </details>
+</div>
 
 
 <!--
