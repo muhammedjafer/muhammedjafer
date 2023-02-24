@@ -30,6 +30,7 @@ Hardworking, Organized, Back-End Developer professional with a proven background
 ### 📊 Muhammad's Github Status
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedjafer&show_icons=true&theme=blue-green" alt="Muhammed's github stats" /></a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedjafer&layout=compact&show_icons=true&theme=blue-green" /></a>
 <!-- this is the strick !-->
 <p><img align="left" width="467px" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedjafer&show_icons=true&theme=blue-green" alt="muhammedjafer" /></p><br>
