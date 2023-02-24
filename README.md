@@ -30,7 +30,7 @@ Hardworking, Organized, Back-End Developer professional with a proven background
 
 ![Muhammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammedjafer&show_icons=true&theme=blue-green)
 <!-- this is the top lang !-->
-<p><img align="left" width="467px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedjafer&show_icons=true&theme=blue-green" alt="muhammedjafer" /></p>&nbsp;&nbsp;
+<img align="right" width="467px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedjafer&show_icons=true&theme=blue-green" alt="muhammedjafer" />&nbsp;&nbsp;
 <!-- this is the strick !-->
 <p><img align="left" width="467px" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedjafer&show_icons=true&theme=blue-green" alt="muhammedjafer" /></p><br>
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
