@@ -28,9 +28,8 @@ Hardworking, Organized, Back-End Developer professional with a proven background
 
 ### 📊 Muhammad's Github Status
 
-![Muhammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammedjafer&show_icons=true&theme=blue-green)
-<!-- this is the top lang !-->
-<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedjafer&show_icons=true&theme=blue-green" alt="muhammedjafer" />&nbsp;&nbsp;
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedjafer&show_icons=true&include_all_commits=true&theme=blue-green&hide_border=true" alt="Muhammed's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedjafer&layout=compact&theme=blue-green&hide_border=true&show_icons=true" /></a> |
+| ------------- | ------------- |
 <!-- this is the strick !-->
 <p><img align="left" width="467px" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedjafer&show_icons=true&theme=blue-green" alt="muhammedjafer" /></p><br>
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
