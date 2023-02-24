@@ -38,18 +38,9 @@ Hardworking, Organized, Back-End Developer professional with a proven background
 
 ##
 
-<style>
-
-  details {
-    margin-top: 6rem;
-  }
-</style>
-
 <details>
   <summary><h3>👨‍💻 Muhammed's Coding Journey</h3></summary>
-  <div style="margin-top: 12rem;">
     I started my coding journey as a naive computer science student with a passion to learn everything I could in this programming world - code, unix, linux, theory. And all the while, teaching myself web development with a dream to build my own app, but that soon got overshadowed by my desire to excel in php and laravel. A desire that landed me a Back-end developer job upon graduation. I am still working on my skills and get more experience in that industry to be a full-stack developer Don't wait up, because I'm coming.
-  </div>
 </details>
 
 
