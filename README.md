@@ -25,7 +25,7 @@ Hardworking, Organized, Back-End Developer professional with a proven background
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedjafer&theme=blue-green" alt="muhammedjafer" /></p>
+
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=muhammedjafer&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
