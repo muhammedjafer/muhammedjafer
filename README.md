@@ -32,17 +32,39 @@ Hardworking, Organized, Back-End Developer professional with a proven background
 
 #
 
-### 📊 Muhammad's Github Status
+<!-- ### 📊 Muhammad's Github Status
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedjafer&show_icons=true&theme=blue-green" alt="Muhammed's github stats" /></a>
 
 <!-- this is the streak !-->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=muhammedjafer&theme=highcontrast)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=muhammedjafer&theme=highcontrast)](https://git.io/streak-stats) -->
 <!-- <p><img src="https://github-readme-streak-stats.herokuapp.com/?username=muhammedjafer&" alt="muhammedjafer" /></p> -->
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedjafer&layout=compact&show_icons=true&theme=blue-green" /></a>
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedjafer&layout=compact&show_icons=true&theme=blue-green" /></a> --> -->
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
+# <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
+
+<br/>
+<p align="left">
+  <a href="http://torrinleonard.com/">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=muhammedjafer&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedjafer&theme=radical&hide_border=true">		  
+  </a>
+</p>
+<br>
+
+<!-- [![Torrin's Activity Graph](https://activity-graph.herokuapp.com/graph?username=torrinworx&custom_title=Torrin's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](http://torrinleonard.com/) -->
+
+<p align="center">
+  <a href="http://torrinleonard.com/">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedjafer&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+  </a>
+</p>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{muhammedjafer}/count.svg"></p>
+
 <details>
   <summary><h3>👨‍💻 Muhammed's Coding Journey</h3></summary>
     I started my coding journey as a naive computer science student with a passion to learn everything I could in this programming world - code, unix, linux, theory. And all the while, teaching myself web development with a dream to build my own app, but that soon got overshadowed by my desire to excel in php and laravel. A desire that landed me a Back-end developer job upon graduation. I am still working on my skills and get more experience in that industry to be a full-stack developer Don't wait up, because I'm coming.
