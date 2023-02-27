@@ -37,7 +37,7 @@ Hardworking, Organized, Back-End Developer professional with a proven background
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedjafer&show_icons=true&theme=blue-green" alt="Muhammed's github stats" /></a>
 
 <!-- this is the streak !-->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=muhammedjafer)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=muhammedjafer&theme=darkhub)](https://git.io/streak-stats)
 <!-- <p><img src="https://github-readme-streak-stats.herokuapp.com/?username=muhammedjafer&" alt="muhammedjafer" /></p> -->
 
 
