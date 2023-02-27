@@ -25,6 +25,10 @@ Hardworking, Organized, Back-End Developer professional with a proven background
 
 ---
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedjafer&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedjafer" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammedjafer" alt="muhammedjafer" /></a> </p>
+
 #
 
 ### 📊 Muhammad's Github Status
