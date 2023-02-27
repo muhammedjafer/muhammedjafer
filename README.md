@@ -32,7 +32,7 @@ Hardworking, Organized, Back-End Developer professional with a proven background
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedjafer&show_icons=true&theme=blue-green" alt="Muhammed's github stats" /></a>
 
 <!-- this is the streak !-->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=muhammedjafer&" alt="muhammedjafer" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?username=muhammedjafer&" alt="muhammedjafer" /></p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedjafer&layout=compact&show_icons=true&theme=blue-green" /></a>
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
