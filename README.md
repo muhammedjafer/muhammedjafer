@@ -30,20 +30,6 @@ Hardworking, Organized, Back-End Developer professional with a proven background
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=muhammedjafer&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
-#
-
-<!-- ### 📊 Muhammad's Github Status
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedjafer&show_icons=true&theme=blue-green" alt="Muhammed's github stats" /></a>
-
-<!-- this is the streak !-->
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=muhammedjafer&theme=highcontrast)](https://git.io/streak-stats) -->
-<!-- <p><img src="https://github-readme-streak-stats.herokuapp.com/?username=muhammedjafer&" alt="muhammedjafer" /></p> -->
-
-
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedjafer&layout=compact&show_icons=true&theme=blue-green" /></a> --> -->
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
 # <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 
 <br/>
@@ -55,10 +41,8 @@ Hardworking, Organized, Back-End Developer professional with a proven background
 </p>
 <br>
 
-<!-- [![Torrin's Activity Graph](https://activity-graph.herokuapp.com/graph?username=torrinworx&custom_title=Torrin's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](http://torrinleonard.com/) -->
-
 <p align="center">
-  <a href="http://torrinleonard.com/">
+  <a href="https://www.linkedin.com/in/muhammed-jafer-67a7aa191/">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedjafer&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
   </a>
 </p>
