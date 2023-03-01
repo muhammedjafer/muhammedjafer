@@ -34,7 +34,7 @@ Hardworking, Organized, Back-End Developer professional with a proven background
 
 <br/>
 <p align="left">
-<a href="http://torrinleonard.com/">
+<a href="https://www.linkedin.com/in/muhammed-jafer-67a7aa191/">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=muhammedjafer&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedjafer&theme=radical&hide_border=true">			  
   </a>
