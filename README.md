@@ -32,7 +32,7 @@ Hardworking, Organized, Back-End Developer professional with a proven background
 
 # <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 
-<br/>
+<br/> 
 <p align="left">
 <a href="https://www.linkedin.com/in/muhammed-jafer-67a7aa191/">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=muhammedjafer&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
