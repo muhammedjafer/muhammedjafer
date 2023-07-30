@@ -46,8 +46,6 @@ Hardworking, Organized, Back-End Developer professional with a proven background
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedjafer&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
   </a>
 </p>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{muhammedjafer}/count.svg"></p>
  
 <details>
   <summary><h3>👨‍💻 Muhammed's Coding Journey</h3></summary>
