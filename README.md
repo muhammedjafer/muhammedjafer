@@ -1,56 +1,78 @@
-# Muhammed Jafer
+<h2> Hi, I'm Muhammed jaafer! </h2>
+<p><em>Software Enginner at <a href="https://www.aryaartagency.com">Arya art agency</a><img src="https://aryaartagency.com/wp-content/uploads/2023/03/arya-art-logo.png" width="70" style="margin-left:20px;margin-top:22px;"></br>
+</em></p>
 
-**`Back-End Developer`**
+[![Linkedin: muhammed-jaafer-67a7aa191](https://img.shields.io/badge/-muhammadjafer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammed-jaafer-67a7aa191/)](https://www.linkedin.com/in/muhammed-jaafer-67a7aa191/)
+[![GitHub muhammedjafer](https://img.shields.io/github/followers/muhammedjafer?label=follow&style=social)](https://github.com/muhammedjafer)
 
-Hardworking, Organized, Back-End Developer professional with a proven background delivering sensible business technology solutions, Responsible for Designing and developing a highly scalable and available back-end systems using latest technologies like php and laravel, Optimizing and performance tuning to process a large volume of data streams for analysis and persistence.
+
+### A little more about me...  
+
+```php
+class ProfileController extends Controller
+{
+    public function getProfile()
+    {
+        $muhammed = [
+            'pronouns' => 'he | him',
+            'code' => ['Javascript', 'PHP', 'HTML', 'CSS', 'LARAVEL', 'LIVEWIRE', 'ALPINE.JS'],
+            'tools' => ['React', 'Redux', 'Node', 'Storybook', 'Styled-Components', 'Jest', 'Docker'],
+            'architecture' => ['microservices', 'event-driven', 'design system pattern'],
+            'techCommunities' => [
+                'coorganizer' => 'Pathway',
+                'speaker' => 'English, kurdish, arabic, french',
+                'mentor' => 'YOUTUBE && Chatgpt'
+            ],
+            'challenge' => 'I am doing the #100DaysOfCode challenge focused on react and typescript'
+        ];
+
+        return response()->streamJson([$muhammed], 200);
+    }
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-original-wordmark.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
+<img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/dbbc299a-8356-45e4-9d2e-a6c21b4569cf" />
+<img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" />
+<img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" />
+<img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" />
+<img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" />
+<img align="left" alt="Bash" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" />
+<img align="left" alt="Docker" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" />
 <br />
+<br />
+
+
 
 ---
 
 
-
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=muhammedjafer&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
 # <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 
 <br/> 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/muhammed-jafer-67a7aa191/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=muhammedjafer&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedjafer&theme=radical&hide_border=true">			  
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedjafer&theme=radical&hide_border=true">			  
   </a>
 </p>
 <br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammed-jafer-67a7aa191/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedjafer&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedjafer&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
   </a>
 </p>
- 
-<details>
-  <summary><h3>👨‍💻 Muhammed's Coding Journey</h3></summary>
-    I started my coding journey as a naive computer science student with a passion to learn everything I could in this programming world - code, unix, linux, theory. And all the while, teaching myself web development with a dream to build my own app, but that soon got overshadowed by my desire to excel in php and laravel. A desire that landed me a Back-end developer job upon graduation. I am still working on my skills and get more experience in that industry to be a full-stack developer Don't wait up, because I'm coming.
-</details>
 
 <!-- 
 **muhammedjafer/muhammedjafer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
