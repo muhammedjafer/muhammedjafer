@@ -19,8 +19,8 @@ class ProfileController extends Controller
             'tools' => ['React', 'Redux', 'Node', 'Storybook', 'Styled-Components', 'Jest', 'Docker'],
             'architecture' => ['microservices', 'event-driven', 'design system pattern'],
             'techCommunities' => [
-                'coorganizer' => 'Pathway',
-                'speaker' => 'English, kurdish, arabic, french',
+                'coorganizer' => 'Pathway, Arya Soft',
+                'speaker' => 'English, Kurdish, Arabic, French',
                 'mentor' => 'YOUTUBE && Chatgpt'
             ],
             'challenge' => 'I am doing the #100DaysOfCode challenge focused on react and typescript'
