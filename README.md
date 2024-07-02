@@ -15,7 +15,7 @@ class ProfileController extends Controller
     {
         $muhammed = [
             'pronouns' => 'he | him',
-            'code' => ['Javascript', 'PHP', 'HTML', 'CSS', 'LARAVEL', 'LIVEWIRE', 'ALPINE.JS'],
+            'code' => ['Python', 'Javascript', 'PHP', 'HTML', 'CSS', 'LARAVEL', 'LIVEWIRE', 'ALPINE.JS'],
             'tools' => ['React', 'Redux', 'Node', 'Storybook', 'Styled-Components', 'Jest', 'Docker'],
             'architecture' => ['microservices', 'event-driven', 'design system pattern'],
             'techCommunities' => [
