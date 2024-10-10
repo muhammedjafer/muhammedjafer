@@ -16,7 +16,7 @@ class ProfileController extends Controller
         $muhammed = [
             'pronouns' => 'he | him',
             'code' => ['Python', 'Javascript', 'PHP', 'HTML', 'CSS', 'LARAVEL', 'LIVEWIRE', 'ALPINE.JS'],
-            'tools' => ['Vue, 'React', 'Redux', 'Node', 'Storybook', 'Styled-Components', 'Jest', 'Docker'],
+            'tools' => ['Vue', 'React', 'Redux', 'Node', 'Storybook', 'Styled-Components', 'Jest', 'Docker'],
             'architecture' => ['microservices', 'event-driven', 'concurrent programming', 'design system pattern'],
             'techCommunities' => [
                 'coorganizer' => 'Pathway, Arya Soft',
