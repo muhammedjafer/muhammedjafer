@@ -1,5 +1,5 @@
 <h2> Hi, I'm Muhammed jaafer! </h2>
-<p><em>Software Enginner at <a href="https://www.aryaartagency.com">Arya art agency</a><img src="https://aryaartagency.com/wp-content/uploads/2023/03/arya-art-logo.png" width="70" style="margin-left:20px;margin-top:22px;"></br>
+<p><em>Software Enginner at <a href="https://www.aryaartagency.com">Arya art agency</a></br>
 </em></p>
 
 [![Linkedin: muhammed-jaafer-67a7aa191](https://img.shields.io/badge/-muhammadjafer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammed-jaafer-67a7aa191/)](https://www.linkedin.com/in/muhammed-jaafer-67a7aa191/)
@@ -16,8 +16,8 @@ class ProfileController extends Controller
         $muhammed = [
             'pronouns' => 'he | him',
             'code' => ['Python', 'Javascript', 'PHP', 'HTML', 'CSS', 'LARAVEL', 'LIVEWIRE', 'ALPINE.JS'],
-            'tools' => ['React', 'Redux', 'Node', 'Storybook', 'Styled-Components', 'Jest', 'Docker'],
-            'architecture' => ['microservices', 'event-driven', 'design system pattern'],
+            'tools' => ['Vue, 'React', 'Redux', 'Node', 'Storybook', 'Styled-Components', 'Jest', 'Docker'],
+            'architecture' => ['microservices', 'event-driven', 'concurrent programming', 'design system pattern'],
             'techCommunities' => [
                 'coorganizer' => 'Pathway, Arya Soft',
                 'speaker' => 'English, Kurdish, Arabic, French',
