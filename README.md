@@ -9,9 +9,11 @@
 ### A little more about me...  
 
 ```php
+use Illuminate\Http\JsonResponse;
+
 class ProfileController extends Controller
 {
-    public function getProfile()
+    public function getProfile(): JsonResponse
     {
         $muhammed = [
             'pronouns' => 'he | him',
@@ -26,7 +28,7 @@ class ProfileController extends Controller
             'challenge' => 'I am doing the #100DaysOfCode challenge focused on react and typescript'
         ];
 
-        return response()->streamJson([$muhammed], 200);
+        return response()->json($muhammed, JsonResponse::HTTP_OK);
     }
 }
 ```
