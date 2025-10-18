@@ -17,7 +17,7 @@ class ProfileController extends Controller
     {
         $muhammed = [
             'pronouns' => 'he | him',
-            'code' => ['Python', 'Javascript', 'PHP', 'HTML', 'CSS', 'LARAVEL', 'LIVEWIRE', 'ALPINE.JS'],
+            'code' => ['Python', 'Javascript', 'PHP', 'HTML', 'CSS', 'LARAVEL', 'LIVEWIRE', 'ALPINE.JS', 'NestJS'],
             'tools' => ['Vue', 'React', 'Redux', 'Node', 'Storybook', 'Styled-Components', 'Jest', 'Docker'],
             'architecture' => ['microservices', 'event-driven', 'concurrent programming', 'design system pattern'],
             'techCommunities' => [
@@ -25,7 +25,7 @@ class ProfileController extends Controller
                 'speaker' => 'English, Kurdish, Arabic, French',
                 'mentor' => 'YOUTUBE && Chatgpt'
             ],
-            'challenge' => 'I am doing the #100DaysOfCode challenge focused on react and typescript'
+            'challenge' => 'Learning NestJS'
         ];
 
         return response()->json($muhammed, JsonResponse::HTTP_OK);
